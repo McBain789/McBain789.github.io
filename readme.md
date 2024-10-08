@@ -1,3 +1,3 @@
 # The New Website
 
-[[alcs.md]]
+[[McBain789/McBain789.github.io/alcs.md]]
